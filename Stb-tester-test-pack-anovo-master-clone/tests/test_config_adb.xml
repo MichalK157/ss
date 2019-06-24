@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<parameters>
+    <soft>
+        <version model = "3740SX">7.0.1</version>
+        <version model = "2850ST">13.1.5</version>
+		<version model = "2851S">6.0.3</version>
+    </soft>
+    <signal>
+        <min_level>50</min_level>
+        <min_quality>50</min_quality>
+    </signal>
+    <network>
+        <min_wifi_level>50</min_wifi_level>
+    </network>
+    <test_channels>
+        <channel status = "main">226</channel>
+        <channel status = "main">301</channel>
+        <channel status = "main">169</channel>
+        <channel status = "main">259</channel>
+        <channel status = "alternative">221</channel>
+        <channel status = "alternative">470</channel>
+        <channel status = "alternative">229</channel>
+        <channel status = "alternative">426</channel>
+    </test_channels>
+</parameters>

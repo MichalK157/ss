@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<parameters>
+    <soft>
+        <version>162</version>
+        <version>162i</version>
+    </soft>
+    <test_channels>
+        <channel status = "main">12</channel>
+        <channel status = "main">90</channel>
+        <channel status = "main">141</channel>
+        <channel status = "main">301</channel>
+        <channel status = "alternative">46</channel>
+        <channel status = "alternative">8</channel>
+        <channel status = "alternative">17</channel>
+        <channel status = "alternative">122</channel>
+        <channel status = "terr_main">998</channel>
+        <channel status = "terr_alter">994</channel>
+    </test_channels>
+</parameters>
